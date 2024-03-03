@@ -1,4 +1,4 @@
-## // Summary //
+## Summary
 
 It is a method of dividing one list into two unequal sizes based on a pivot, arranging the divided partial lists, and then summing the two aligned partial lists to make the whole sorted list.
 
